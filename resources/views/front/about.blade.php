@@ -125,7 +125,7 @@ About
                                 distribution of letters, look like readable English.</p>
                                 <p>There are many variations of passages of Lorem Ipsum available, but the majority have in some
                                 form,
-                                by injected humour.</p>
+                                by injected humour..</p>
                             </div>
                             <div class="tab-pane fade" id="nav-history" role="tabpanel" aria-labelledby="nav-history-tab">
                                 <p>It is a long established fact that a reader will be distracted by the readable content of a page
