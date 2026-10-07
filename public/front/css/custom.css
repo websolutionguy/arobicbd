@@ -1,0 +1,75 @@
+.header-eight {
+    background: linear-gradient(-45deg, #f7941d, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+}
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+.navbar-area.navbar-nine {
+    background: #fff;
+    box-shadow: 1px 1px 5px #cccccc;
+}
+.navbar-area.navbar-nine .navbar .navbar-nav .nav-item a {
+    color: #000000;
+}
+.navbar-area.navbar-nine .navbar .navbar-btn .menu-bar {
+    color: #ffffff;
+    background: #e8850f;
+    border-radius: 50%;
+}
+.navbar-toggler {
+    padding: 0.25rem 0.75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: #e8850f;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    transition: box-shadow 0.15s ease-in-out;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px){
+    .navbar-area.navbar-nine .navbar .navbar-nav .nav-item a {
+        color: #fff;
+    }
+}
+
+.detail-section{
+    max-width: 1000px;
+    margin: 50px auto;
+}
+
+.dropdown-menu {
+    padding: 0;
+}
+
+.single-testimonial{
+    padding: 0px !important;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px){
+    .dropdown-menu li a {
+        padding: 0;
+        color: #000 !important;
+        padding: 10px !important;
+    }
+}
+
+.contact-form-wrapper .contact-form input, .contact-form-wrapper .contact-form textarea{
+    margin-bottom:8px !important;
+}
+.mv{
+    font-size: 11px;
+    margin-bottom: 20px !important;
+    display: block;
+    padding-left: 10px;
+}

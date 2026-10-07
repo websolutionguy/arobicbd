@@ -1,0 +1,111 @@
+[21-Sep-2026 14:56:50 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 14:56:50 UTC] PHP Fatal error:  require(): Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 14:57:30 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 14:57:30 UTC] PHP Fatal error:  require(): Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:05:18 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:05:18 UTC] PHP Fatal error:  require(): Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:07:21 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:07:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/skqavzpagy/arobicbd.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:07:58 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:07:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/skqavzpagy/arobicbd.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:08:01 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:08:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/skqavzpagy/arobicbd.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:25 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/skqavzpagy/arobicbd.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:27 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/skqavzpagy/arobicbd.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:28 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/skqavzpagy/arobicbd.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:28 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/skqavzpagy/arobicbd.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:28 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/skqavzpagy/arobicbd.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:29 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/skqavzpagy/arobicbd.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:29 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/skqavzpagy/arobicbd.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:29 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/skqavzpagy/arobicbd.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:29 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/skqavzpagy/arobicbd.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:29 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/skqavzpagy/arobicbd.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:30 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/skqavzpagy/arobicbd.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:30 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/skqavzpagy/arobicbd.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:30 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/skqavzpagy/arobicbd.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:30 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/skqavzpagy/arobicbd.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:30 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/skqavzpagy/arobicbd.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:31 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/skqavzpagy/arobicbd.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:31 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:11:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/skqavzpagy/arobicbd.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:14:15 UTC] PHP Warning:  require(/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
+[21-Sep-2026 15:14:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/skqavzpagy/arobicbd.net/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/skqavzpagy/arobicbd.net/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/skqavzpagy/arobicbd.net/public/index.php on line 34
