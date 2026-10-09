@@ -31,6 +31,9 @@
                                 <a class="" href="{{ route('news.events') }}">News & Events</a>
                             </li>
                             <li class="nav-item">
+                                <a class="" href="{{ route('our.clients') }}">Our Clients</a>
+                            </li>
+                            <li class="nav-item">
                                 <a class="" href="{{ route('career') }}">Career</a>
                             </li>
                             <li class="nav-item">

@@ -43,6 +43,16 @@
     }
 }
 
+.client-image{
+    overflow:hidden;
+    margin-bottom:10px;
+}
+.client-image h4{
+    font-weight: 500;
+    font-size: 15px;
+    padding: 10px;
+}
+
 .detail-section{
     max-width: 1000px;
     margin: 50px auto;

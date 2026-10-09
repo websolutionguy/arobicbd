@@ -41,6 +41,8 @@ Route::get('/service/{slug}', [HomePageController::class, 'serviceDetails'])->na
 Route::get('/news-events', [PageController::class, 'newsPage'])->name('news.events');
 Route::get('/news-events/{slug}', [PageController::class, 'newsDetailPage'])->name('news.details');
 
+Route::get('/our-clients', [PageController::class, 'clientPage'])->name('our.clients');
+
 Route::get('/career', [PageController::class, 'careerPage'])->name('career');
 Route::get('/careers/{slug}', [PageController::class, 'careerDetailPage'])->name('career.details');
 

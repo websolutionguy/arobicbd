@@ -7,6 +7,7 @@ use App\Models\Career;
 use App\Models\Contact;
 use App\Models\Licence;
 use App\Models\News;
+use App\Models\Client;
 use App\Models\People;
 use App\Models\Profile;
 use App\Models\Services;
@@ -26,6 +27,11 @@ class PageController extends Controller
     public function newsDetailPage($slug){
         $news = News::where('slug', $slug)->first();
         return view('front.news_details', compact('news'));
+    }
+    
+    public function clientPage(){
+        $clients = Client::orderBy('id', 'desc')->paginate(9);
+        return view('front.our_clients', compact('clients'));
     }
 
     public function careerPage(){
